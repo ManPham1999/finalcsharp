@@ -1,0 +1,11 @@
+/Users/macintoshhd/Projects/FinalCshape/bin/Release/netcoreapp3.1/FinalCshape.deps.json
+/Users/macintoshhd/Projects/FinalCshape/bin/Release/netcoreapp3.1/FinalCshape.runtimeconfig.json
+/Users/macintoshhd/Projects/FinalCshape/bin/Release/netcoreapp3.1/FinalCshape.runtimeconfig.dev.json
+/Users/macintoshhd/Projects/FinalCshape/bin/Release/netcoreapp3.1/FinalCshape.dll
+/Users/macintoshhd/Projects/FinalCshape/bin/Release/netcoreapp3.1/FinalCshape.pdb
+/Users/macintoshhd/Projects/FinalCshape/obj/Release/netcoreapp3.1/FinalCshape.AssemblyInfoInputs.cache
+/Users/macintoshhd/Projects/FinalCshape/obj/Release/netcoreapp3.1/FinalCshape.AssemblyInfo.cs
+/Users/macintoshhd/Projects/FinalCshape/obj/Release/netcoreapp3.1/FinalCshape.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Projects/FinalCshape/obj/Release/netcoreapp3.1/FinalCshape.dll
+/Users/macintoshhd/Projects/FinalCshape/obj/Release/netcoreapp3.1/FinalCshape.pdb
+/Users/macintoshhd/Projects/FinalCshape/obj/Release/netcoreapp3.1/FinalCshape.genruntimeconfig.cache

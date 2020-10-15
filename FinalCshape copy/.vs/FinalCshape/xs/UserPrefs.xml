@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9B51B20F-7386-4811-98E7-1A6A2FA373F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.FinalCshape PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HoaDon.cs">
+    <Files>
+      <File FileName="Program.cs" Line="129" Column="29" />
+      <File FileName="HoaDon.cs" Line="6" Column="24" />
+      <File FileName="SanPham.cs" />
+      <File FileName="Validation.cs" />
+      <File FileName="KhachHang.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalCshape" expanded="True">
+            <Node name="FinalCshape" expanded="True">
+              <Node name="HoaDon.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
